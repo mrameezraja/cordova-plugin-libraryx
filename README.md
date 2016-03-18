@@ -30,7 +30,7 @@ Gets all photos at once.
 </code>
 </pre>
 
-Readings:
+photos:
 - imageUrl
 - hasGPS
 - latitude
